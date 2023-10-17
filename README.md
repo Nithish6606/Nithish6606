@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithish6606" alt="nithish6606" /></a> </p>
 
-- 🔭 I’m currently working on **Scrapy**
 
-- 🌱 I’m currently learning **Web scraping**
 
 - 📫 How to reach me **madanithishreddy@gmail.com**
 
