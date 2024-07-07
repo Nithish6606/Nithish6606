@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **madanithishreddy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -21,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithish6606&show_icons=true&locale=en" alt="nithish6606" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish6606&" alt="nithish6606" /></p>
+
+![snake gif](https://github.com/Nithish6606/Nithish6606/blob/output/github-contribution-grid-snake.gif)
